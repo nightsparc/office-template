@@ -1,3 +1,3 @@
-# EN9100
+# office-template
 
-Repository containing QM related documents for EN9100 certification.
+A template for creating new office-related repositories at HAT.tec with preset issue-labes, `gitignore` and `gitattributes`.

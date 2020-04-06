@@ -1,0 +1,5 @@
+# Use "pandoc" tooling as defined in the git config
+# See README.md
+*.docx diff=pandoc
+*.odt diff=pandoc
+

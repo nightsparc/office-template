@@ -1,6 +1,6 @@
 # office-template
 
-A template for creating new office-related repositories at HAT.tec with preset issue-labes and preconfigured `gitignore` and `gitattribute` files.
+A template for repositories office-related repositories with preset issue-labes and preconfigured `gitignore` and `gitattribute` files.
 
 ## Usage / Configuration
 
